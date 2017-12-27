@@ -39,4 +39,3 @@ uploadArchives {
 war {
 	archiveName = "${baseName}.${extension}"
 }
-

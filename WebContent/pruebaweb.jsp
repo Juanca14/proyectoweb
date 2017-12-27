@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Proyecto web</title>
-<div align="center"><h3>¡Prueba de proyecto web!</h3></div>
+<title>Dynamic web</title>
+<div align="center"><h3>¡Prueba de dynamic web!</h3></div>
 </head>
 <body>
 
